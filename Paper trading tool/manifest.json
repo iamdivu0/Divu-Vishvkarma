@@ -1,0 +1,15 @@
+{
+  "name": "Intraday Broker Dashboard",
+  "short_name": "BrokerDashboard",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a192f",
+  "theme_color": "#00ffe0",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/11888/11888722.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
